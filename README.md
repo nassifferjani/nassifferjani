@@ -6,7 +6,6 @@
     <a href="https://www.instagram.com/nassifferjani/?hl=fr"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/nassifferjani/profile-img.png" align="right" width="25%"/>
 
 Recently graduated in Industrial and Logistics Engineering, I possess proven expertise in implementing ERPs, BI, Project Management, and optimizing business processes. With an analytical and critical mindset, I have gained significant experience in integrating advanced technologies to enhance operations in the industrial sector, aiming to ensure the quality and efficiency of processes. My commitment to continuous improvement and ability to translate operational challenges into effective solutions are key strengths in my professional journey.
 
